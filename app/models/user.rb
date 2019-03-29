@@ -3,5 +3,6 @@ class User < ApplicationRecord
 		#message for this branch
 		#sandeep
 		#new_level_change
+		#rebase for master
 	end
 end
